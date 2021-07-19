@@ -1,0 +1,12 @@
+#login-container form{
+    padding: 5px;
+    box-shadow: 0px 0px 6px 0px black;
+    border-radius: 10px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#logout-button{
+    display: block;
+    margin: 0 auto;
+}

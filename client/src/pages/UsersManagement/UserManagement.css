@@ -1,0 +1,12 @@
+#user-managment .search-container{
+    float:left;
+}
+#user-managment .search-button{
+    margin-left: 10px;
+    border-radius: 500rem;
+}
+
+#user-managment .ui.card{
+    float: left;
+    margin: 0 20px 20px 0;
+}

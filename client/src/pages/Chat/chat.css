@@ -1,0 +1,15 @@
+#chat-container .w80
+{
+    width: 80%;
+}
+
+.my-message .content{
+    background-color: #dcf8c6!important;
+}
+
+.user-message{
+    direction: rtl;
+}
+.push-right{
+float: right;
+}

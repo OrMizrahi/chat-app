@@ -1,0 +1,12 @@
+#room-managment .search-container{
+    float:left;
+}
+#room-managment .search-button{
+    margin-left: 10px;
+    border-radius: 500rem;
+}
+
+#room-managment .ui.card{
+    float: left;
+    margin: 0 20px 20px 0;
+}

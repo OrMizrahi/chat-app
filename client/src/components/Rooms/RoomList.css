@@ -1,0 +1,9 @@
+#room-list .ui.card{
+    float: left;
+    box-shadow: 1px 1px 10px black;
+    margin: 0 20px 20px 0;
+    transition: .3s all ease-in-out;
+}
+#room-list .ui.card:hover{
+    background-color:rgb(129, 204, 58);
+}
